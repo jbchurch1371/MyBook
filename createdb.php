@@ -7,9 +7,9 @@
   <body>
     <?php
     // replace user and password
-    $host = 
+    $host = "server00100.database.windows.net";
     $user = "jbchurch1@ccis.edu";
-    $password = "Brennan123!";
+    $password = "CloudSAb695c0ef";
     // connect
     $conn = mysqli_connect($host, $user, $password);
     if($conn)
